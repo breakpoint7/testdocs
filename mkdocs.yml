@@ -1,10 +1,10 @@
 site_name: My Docs
 site_url: https://breakpoint7.github.io/testdocs/
-nav:
-  - Home: index.md
-  - Page2: page2.md
-  - Section1:
-    - Subpage1: subpage1.md
-    - Subpage2: subpage2.md
+repo_url: https://github.com/microsoft/code-with-engineering-playbook/
+edit_uri: ""
+
 theme:
   name: material
+
+plugins:
+  - search
