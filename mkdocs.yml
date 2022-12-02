@@ -6,4 +6,4 @@ nav:
     - Subpage1: subpage1.md
     - Subpage2: subpage2.md
 theme:
-  name: readthedocs
+  name: material
